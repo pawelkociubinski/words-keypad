@@ -1,4 +1,7 @@
-# words-keypad
+# Algorithms
+
+Using the phone keypad, write a function that takes two parameters - a phone number and an array of words. 
+Return a new array of words that contains only those words that can be created using the given phone number in the function's first argument. 
 
 
 ```typescript
